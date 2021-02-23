@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Online_Voting_System/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/Online_Voting_System/static/js/main.283b86d4.chunk.js",
+    "main.js.map": "/Online_Voting_System/static/js/main.283b86d4.chunk.js.map",
+    "runtime-main.js": "/Online_Voting_System/static/js/runtime-main.b005c5c1.js",
+    "runtime-main.js.map": "/Online_Voting_System/static/js/runtime-main.b005c5c1.js.map",
+    "static/js/2.3277ff60.chunk.js": "/Online_Voting_System/static/js/2.3277ff60.chunk.js",
+    "static/js/2.3277ff60.chunk.js.map": "/Online_Voting_System/static/js/2.3277ff60.chunk.js.map",
+    "static/js/3.ae13d779.chunk.js": "/Online_Voting_System/static/js/3.ae13d779.chunk.js",
+    "static/js/3.ae13d779.chunk.js.map": "/Online_Voting_System/static/js/3.ae13d779.chunk.js.map",
+    "index.html": "/Online_Voting_System/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/Online_Voting_System/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.3277ff60.chunk.js.LICENSE.txt": "/Online_Voting_System/static/js/2.3277ff60.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Online_Voting_System/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b005c5c1.js",
+    "static/js/2.3277ff60.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.283b86d4.chunk.js"
+  ]
+}

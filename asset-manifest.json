@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/Online_Voting_System/static/css/main.3c2da8d2.chunk.css",
-    "main.js": "/Online_Voting_System/static/js/main.2675e15c.chunk.js",
-    "main.js.map": "/Online_Voting_System/static/js/main.2675e15c.chunk.js.map",
-    "runtime-main.js": "/Online_Voting_System/static/js/runtime-main.eb12bf4a.js",
-    "runtime-main.js.map": "/Online_Voting_System/static/js/runtime-main.eb12bf4a.js.map",
+    "main.js": "/Online_Voting_System/static/js/main.698694d8.chunk.js",
+    "main.js.map": "/Online_Voting_System/static/js/main.698694d8.chunk.js.map",
+    "runtime-main.js": "/Online_Voting_System/static/js/runtime-main.fd106eba.js",
+    "runtime-main.js.map": "/Online_Voting_System/static/js/runtime-main.fd106eba.js.map",
     "static/css/2.150d169a.chunk.css": "/Online_Voting_System/static/css/2.150d169a.chunk.css",
-    "static/js/2.bbccab4e.chunk.js": "/Online_Voting_System/static/js/2.bbccab4e.chunk.js",
-    "static/js/2.bbccab4e.chunk.js.map": "/Online_Voting_System/static/js/2.bbccab4e.chunk.js.map",
-    "static/js/3.b325c228.chunk.js": "/Online_Voting_System/static/js/3.b325c228.chunk.js",
-    "static/js/3.b325c228.chunk.js.map": "/Online_Voting_System/static/js/3.b325c228.chunk.js.map",
+    "static/js/2.4545481c.chunk.js": "/Online_Voting_System/static/js/2.4545481c.chunk.js",
+    "static/js/2.4545481c.chunk.js.map": "/Online_Voting_System/static/js/2.4545481c.chunk.js.map",
+    "static/js/3.a2a423f3.chunk.js": "/Online_Voting_System/static/js/3.a2a423f3.chunk.js",
+    "static/js/3.a2a423f3.chunk.js.map": "/Online_Voting_System/static/js/3.a2a423f3.chunk.js.map",
     "index.html": "/Online_Voting_System/index.html",
     "static/css/2.150d169a.chunk.css.map": "/Online_Voting_System/static/css/2.150d169a.chunk.css.map",
     "static/css/main.3c2da8d2.chunk.css.map": "/Online_Voting_System/static/css/main.3c2da8d2.chunk.css.map",
-    "static/js/2.bbccab4e.chunk.js.LICENSE.txt": "/Online_Voting_System/static/js/2.bbccab4e.chunk.js.LICENSE.txt",
+    "static/js/2.4545481c.chunk.js.LICENSE.txt": "/Online_Voting_System/static/js/2.4545481c.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/Online_Voting_System/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.eb12bf4a.js",
+    "static/js/runtime-main.fd106eba.js",
     "static/css/2.150d169a.chunk.css",
-    "static/js/2.bbccab4e.chunk.js",
+    "static/js/2.4545481c.chunk.js",
     "static/css/main.3c2da8d2.chunk.css",
-    "static/js/main.2675e15c.chunk.js"
+    "static/js/main.698694d8.chunk.js"
   ]
 }
